@@ -12,4 +12,7 @@ Purple Bok Choi, , <https://en.wikipedia.org/wiki/Bok_choy> \
 Oregano, \
 General peppers, \
 Cilantro \
-Variegated Benjamin Ficus, , <https://en.wikipedia.org/wiki/Ficus_benjamina>
+Variegated Benjamin Ficus, , <https://en.wikipedia.org/wiki/Ficus_benjamina> \
+Strawberry plants,  \
+Banana Plant, Dwarf \
+Icelandic birch, Íslensk birki \
