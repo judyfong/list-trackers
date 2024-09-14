@@ -1,0 +1,19 @@
+## Packing list
+- [ ] gym
+  - [ ] drink
+  - [ ] snack
+  - [ ] candy
+  - [ ] exercise tape
+- [ ] exercise clothes/layers
+- [ ] bicycle lock
+- [ ] laptop/usb-c charger
+- [ ] laptop
+- [ ] phone
+- [ ] phone charger
+- [ ] tablet?
+- [ ] food + drinks
+- [ ] H2O and vitamins
+- [ ] earphones
+- [ ] charging cables
+- [ ] backpack with extra bag
+- [ ] Mental preparedness to be precise, accurate, and unique (Tapasticalaisiw)
