@@ -1,0 +1,14 @@
+# Communal/RIFF2022/2024 stuff to watch
+- [ ] Battle Royale - with good audio quality - HB
+- [ ] Kusuriya no HItorigoto - The Apothecary Diaries - japanese audio and spanish subs - HB
+- [ ] Heard vs Depp Trial - HB, JF
+- [ ] Everything everywhere all at once - HB
+- [ ] Knives out - Daniel Craig and Ana de Armas - HB
+- [ ] Shutter Island
+- [ ] Monster - JF
+- [ ] Frieren - JF
+- [ ] Tropia de elite - HB
+- [ ] Cidade de deus - HB
+- [ ] Moonrise Kingdom - MRR spring 2023
+- [ ] Nobody Knows - 2004
+- [ ] Annette - SC, MF
