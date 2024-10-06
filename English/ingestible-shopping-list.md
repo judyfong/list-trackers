@@ -3,65 +3,72 @@
 ## Shelf stable
 - [ ] cinnamon
 - [ ] sugar
-- [ ] cheapest honey
+- [ ] *cheapest honey*
 - [ ] chamomile tea
-- [ ] lemon tea
+- [ ] *lemon tea*
 - [ ] hot chocolate
-- [ ] sugar cubes
+- [ ] *sugar cubes*
 - [ ] sugar
 - [ ] pour over ground coffee
 - [ ] hard tack
-- [ ] Egils Appelsínu concentrate
+- [ ] *Egils Appelsínu concentrate*
 - [ ] oatmeal
 - [ ] paper cups
 
 ## Perishable
-- [ ] apples
+- [ ] *apples*
 - [ ] oranges
-- [ ] bananas
+- [ ] *bananas*
 - [ ] watermelon
-- [ ] grapes
+- [ ] grapes?
 - [ ] sandwich bread
 
 ## Snacks
 - [ ] sandwich cookies
 - [ ] chocolate sandwich cookies
 - [ ] Corn flakes
-- [ ] cheerios
+- [ ] *cheerios*
 
 ## Refrigerator
-- [ ] eggs
+- [ ] *eggs*
 - [ ] plain Skyr
-- [ ] caramel and nut yogurt
-- [ ] vanilla skyr
-- [ ] strawberry yogurt
+- [ ] *caramel and nut yogurt*
+- [ ] *vanilla skyr*
+- [ ] *strawberry yogurt*
 - [ ] skim milk
 - [ ] whole milk
-- [ ] cream
-- [ ] apple juice
-- [ ] orange juice
+- [ ] *cream*
+- [ ] *apple juice*
+- [ ] *orange juice*
 - [ ] prune juice
-- [ ] cranberry juice
+- [ ] *cranberry juice*
 - [ ] cheese
 - [ ] tomatoes
-- [ ] cucumber
-- [ ] red onion
+- [ ] *cucumber*
+- [ ] *red onion*
 
 ## Freezer
 - [ ] ice cream
 
 ## Service men
-- [ ] soda water
+- [ ] *soda water cannister*
 - [ ] lunch and dinner
 - [ ] desserts
 
 ## Extras
 - [ ] Bonaqua epli
 - [ ] lactose free milk
+- [ ] baby milk
+- [ ] fortified milk
 - [ ] Bónus snakk
 - [ ] yellow onion
 - [ ] earl grey tea
+- [ ] nesquick
+- [ ] *cutie tangerines*
+- [ ] plums
+- [ ] prunes
 - [ ] passionfruit
 - [ ] YumYum instant noodles
 - [ ] Coffee skyr
 - [ ] Dominos pizza or tortilla pizzas
+- [ ] *canned tuna in oil*
