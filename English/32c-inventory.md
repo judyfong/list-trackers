@@ -10,6 +10,9 @@
 
 ## Common tv room
 - [ ] netflix
+- [ ] Youtube
+    - [ ] MVM
+    - [ ] jipbear 
 
 ## General stuff box/area
 - [ ] newspaper
@@ -42,6 +45,7 @@
 - [ ] universal remotes
 - [ ] medicine & vitamins
 - [ ] ketchup cups
+- [ ] flexible pens
 
 ### Relaxation room
 - [ ] beanbag/relaxing chair
