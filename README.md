@@ -5,7 +5,7 @@ trackers and lists of things that i find noteworthy
 - [Conferences](conferences.md)
 - [Country Swing](https://projects.judyyfong.xyz/list-trackers/country-swing.html)
 - [Daily packing list](daily-packing-list.md)
-- [Icelandic hiking trails](https://projects.judyyfong.xyz/list-trackers/index.html)
+- [Hiking trails in Iceland and USA](https://projects.judyyfong.xyz/list-trackers/index.html)
 - [Movies or Shows](movies-shows.md)
 - [Open Questions](open-questions.md)
 - [Paper to read](papers.csv)
