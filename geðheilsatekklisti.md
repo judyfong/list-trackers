@@ -33,4 +33,4 @@
 - [ ] .
 
 # Þema dagsins (mest sérstaklegur atburðir eða tilfinning)
-- [ ] 
+- [ ] .
