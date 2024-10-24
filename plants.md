@@ -6,16 +6,16 @@ Inch Plant, ,small leaves, 2 ,poisonous \
 Spider Plant, , <https://en.wikipedia.org/wiki/Chlorophytum_comosum>, 2, in-edible \
 Orchid, , <https://en.wikipedia.org/wiki/Orchid> , 1, in-edible\
 Variegated Benjamin Ficus, , <https://en.wikipedia.org/wiki/Ficus_benjamina>, 0,bonsai, in-edible \
-Purple Bok Choi, , <https://en.wikipedia.org/wiki/Bok_choy>, 1, edible \
+Purple Bok Choi, , <https://en.wikipedia.org/wiki/Bok_choy>, 0, edible \
 General peppers, Rauð papríka, 1, edible\
 Tomato plants, Tomato plöntur, 1, bonsai potential, edible\
-Strawberry plants, , 3, edible \
+Strawberry plants, , 0, edible \
 Banana Plant, Dwarf, 1,bonsai potential,edible \
 Icelandic birch, Íslensk birki, 2,bonsai potential, in-edible \
 Razzmatazz chili pepper plant, , 1, bonsai, edible\
-Lettuce, 1, edible \
-Knuðkál, 1, edible \
-Napa Cabbage/ Chinese cabbage, Kinakál,1, edible\
+Lettuce, 0, edible \
+Knuðkál, 0, edible \
+Napa Cabbage/ Chinese cabbage, Kinakál,0, edible\
 Spring onion / Bunched onion, Vorlaukur, 4, edible\
 Potato plants,0,edible \
 Chives,0, edible \
