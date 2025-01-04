@@ -68,7 +68,6 @@
 - [ ] plums
 - [ ] prunes
 - [ ] passionfruit
-- [ ] YumYum instant noodles
 - [ ] Coffee skyr
 - [ ] Dominos pizza or tortilla pizzas
 - [ ] *canned tuna in oil*
