@@ -16,3 +16,5 @@
 - [ ] The anatomy of a fall - JF, MF
 - [ ] kisi flow - JF https://en.m.wikipedia.org/wiki/Flow_(2024_film)
 - [ ] claude shannon "the bitplayer" movie - judy
+- [ ] Legally Blonde - judy
+- [ ] Kevin Can F**k Himself - Judy
