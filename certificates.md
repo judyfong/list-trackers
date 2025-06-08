@@ -1,0 +1,1 @@
+Chartered Financial Analyst, https://en.m.wikipedia.org/wiki/Chartered_Financial_Analyst
