@@ -12,5 +12,5 @@ trackers and lists of things that i find noteworthy
 - [Open Questions](open-questions.md)
 - [Paper to read](papers.csv)
 - [Plants I own](plants.md)
-- [Icelandic car checkup]() - go in the first half of the month
+- [Icelandic car checkup](Islenska/bifreidaskodun.md) - go in the first half of the month
 
