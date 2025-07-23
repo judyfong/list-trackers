@@ -28,4 +28,4 @@ Grass-like plant, , ,1,in-edible \
 Aloe vera plant, , ,1, edible \
 Colorful Coleus, Kólus, <https://en.wikipedia.org/wiki/Coleus>, 1, in-edbile \
 Lavendar pebble succulent,,https://en.m.wikipedia.org/wiki/Graptopetalum, 1, \
-Pothos plant,,,1, 
+Pothos plant, kólfblóm planta,,1, 
