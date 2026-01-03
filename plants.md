@@ -9,7 +9,7 @@ Variegated Benjamin Ficus, , <https://en.wikipedia.org/wiki/Ficus_benjamina>, 0,
 Purple Bok Choi, , <https://en.wikipedia.org/wiki/Bok_choy>, 0, edible \
 General peppers, Rauð papríka, 1, edible\
 Cayenne pepper plant, cayenne planta, 1, edible \
-Tomato plants, Tomato plöntur, 1, bonsai potential, edible\
+Tomato plants, Tomato plöntur, 0, bonsai potential, edible\
 Strawberry plants, , 0, edible \
 Banana Plant, Dwarf, 1,bonsai potential,edible \
 Icelandic birch, Íslensk birki, 2,bonsai potential, in-edible \
@@ -24,8 +24,8 @@ Oregano,0, edible \
 Cilantro,0, edible \
 Snake plant, Tengda-mama planta, 0, in-edible\
 Regular Jade Plant, , ,1, in-edible \
-Grass-like plant, , ,1,in-edible \
+All green spider plant, , ,1,in-edible \
 Aloe vera plant, , ,1, edible \
-Colorful Coleus, Kólus, <https://en.wikipedia.org/wiki/Coleus>, 1, in-edbile \
+Colorful Coleus, Kólus, <https://en.wikipedia.org/wiki/Coleus>, 1, in-edible \
 Lavendar pebble succulent,,https://en.m.wikipedia.org/wiki/Graptopetalum, 1, \
 Pothos plant, kólfblóm planta,,1, 
