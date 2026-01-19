@@ -4,3 +4,5 @@
 * chain basic
 * cuddle
 * basic lean
+* pretzel (wasnt taught, just shown)
+* follower spin (dunno name)
