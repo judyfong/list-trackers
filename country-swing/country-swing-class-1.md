@@ -1,2 +1,5 @@
-2-step
-4a
+* 2-step
+* 4-step, with a rockstep
+* beltloop
+* chain
+* basic lean
