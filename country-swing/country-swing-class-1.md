@@ -22,6 +22,7 @@ class 3
 * inside lean from open position by bringing follower's arm behind leader's neck to the far shoulder
 
 class 4
+* line dance: austin
 * multiple spins with spiderman hands
    go into a v position with our backs on the inside
 * go to barndoor
