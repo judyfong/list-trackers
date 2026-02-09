@@ -20,3 +20,14 @@ class 3
 * rock gently together in the open position
 * roll like in the boing dance, bring arm forward but leader steps back and waits for follower's other hand to complete the move
 * inside lean from open position by bringing follower's arm behind leader's neck to the far shoulder
+
+class 4
+* multiple spins with spiderman hands
+   go into a v position with our backs on the inside
+* go to barndoor
+  * two exits
+  * bring the connected arms over follower's head then loosely separate
+  * back to back
+* pretzel
+* cherry dip
+  * often executed last in the triple dip
