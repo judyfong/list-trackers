@@ -32,3 +32,15 @@ class 4
 * pretzel
 * cherry dip
   * often executed last in the triple dip
+
+class 8
+* baseball throw (follower does full rotation)
+* yo-yo move
+  * pop-out - leader stops follower's movement on the hip
+    * from the pop out the leader can do the orbit which is spinning the follower all around the leader using the backhand position, ending up in the same position as the follower started orbit in
+    * while the follower is right behind the leader during orbit, the leader can initiate the jet pack lean by scooting the follower forward until their arms can wrap over the leader's shoulders. then the leader gracefully lunges forward on one leg
+    * orbit can also be finished with a basic dip
+
+  * alternative is leader exposes flat palm for follower to clap
+    * to get out leader spins follower out then in the open position the leader switches hands so theyre no longer in the crossed hands position
+  
