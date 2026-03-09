@@ -12,7 +12,7 @@ class 2
 * chain basic exit from ... ?
 * chain basic unravel follower exit
 * basic lift after lean
-* yo-yo from inside turn, leader goes off of the line
+* yo-yo from inside turn, follower is stopped by leader momentarially then leader goes off of the line so follower can continue spinning
 
 class 3
 * zigzag, a four step where right foot steps diagonally forwrd once
