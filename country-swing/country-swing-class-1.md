@@ -23,6 +23,8 @@ class 3
 
 class 4
 * line dance: austin
+
+class 5
 * multiple spins with spiderman hands
    go into a v position with our backs on the inside
 * go to barndoor
@@ -32,6 +34,12 @@ class 4
 * pretzel
 * cherry dip
   * often executed last in the triple dip
+
+class 6
+
+class 7
+* superman lean
+
 
 class 8
 * baseball throw (follower does full rotation)
