@@ -51,4 +51,13 @@ class 8
 
   * alternative is leader exposes flat palm for follower to clap
     * to get out leader spins follower out then in the open position the leader switches hands so theyre no longer in the crossed hands position
+
+class 9
+* high five side ways
+* high five forward backwards
+  * backward hip pulls
+* two step forward into hammerlock switch hands then spin follower out
+* from crossed hands only one hand
+  * twist out then leader places follower hand on chest
+  * twist follower behind leader and switch hands into normal hands
   
