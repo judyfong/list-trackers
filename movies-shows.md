@@ -22,3 +22,4 @@
 - [ ] ancient beef rations - https://youtu.be/jZoHuMwZwTk?feature=shared Judy
 - [ ] true size of a bald eagle - https://youtube.com/shorts/F4_NKGBi9Yg?si=He80yPcykXaAnM-A - JYF
 - [ ] The Eight Mountains - JYF
+- [ ] bbc burning eye documentary - https://www.bbc.com/mediacentre/2024/bbc-eye-burning-sun-women-who-exposed-secret-kpop-chatgroups - JYF
