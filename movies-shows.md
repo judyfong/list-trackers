@@ -23,3 +23,8 @@
 - [ ] true size of a bald eagle - https://youtube.com/shorts/F4_NKGBi9Yg?si=He80yPcykXaAnM-A - JYF
 - [ ] The Eight Mountains - JYF
 - [ ] bbc burning eye documentary - https://www.bbc.com/mediacentre/2024/bbc-eye-burning-sun-women-who-exposed-secret-kpop-chatgroups - JYF
+- [ ] Severance, a smidgeon of thought required, NE
+- [ ] Dark, on Netflix, NE
+- [ ] Fargo, NE
+- [ ] Wayward, a smidgeon of thought required, NE
+- [ ] Below Deck, reality show start with normal version, NE
