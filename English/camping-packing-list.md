@@ -18,6 +18,8 @@
 - [ ] scarf
 - [ ] soap
 - [ ] towel
+- [ ] toilet paper
+- [ ] shovel
 
 - [ ] speaker
 - [ ] climbing shoes
