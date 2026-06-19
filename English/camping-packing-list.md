@@ -23,6 +23,9 @@
 - [ ] tooth paste
 - [ ] tooth brush
 - [ ] hiking shoes
+- [ ] first aid kit
+- [ ] ice chest
+- [ ] ice pack
 
 - [ ] speaker
 - [ ] climbing shoes
