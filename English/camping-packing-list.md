@@ -20,6 +20,8 @@
 - [ ] towel
 - [ ] toilet paper
 - [ ] shovel
+- [ ] tooth paste
+- [ ] tooth brush
 
 - [ ] speaker
 - [ ] climbing shoes
