@@ -22,6 +22,7 @@
 - [ ] shovel
 - [ ] tooth paste
 - [ ] tooth brush
+- [ ] hiking shoes
 
 - [ ] speaker
 - [ ] climbing shoes
