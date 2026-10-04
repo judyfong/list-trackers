@@ -10,3 +10,4 @@ einn og sér - alone, by itself
 ## Samanburður eða tenging við gagnrök
 Séu þau það - not withstanding, those reasons being so
 þvert á móti - on the contrary
+en þó - despite, even though
