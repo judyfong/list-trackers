@@ -7,6 +7,7 @@ auk þess - additionally, also because
 
 ## Önnur tengiorð eða upphaf
 í seinni tíma - in modern times
+engu að síður - nonetheless,yet, notwithstanding
 
 ## Samanburður eða tenging við gagnrök
 Séu þau það - not withstanding, those reasons being so
