@@ -4,6 +4,7 @@
 * Einkum - especially, as an example
 * einn og sér - alone, by itself
 * auk þess - additionally, also because
+* með öðrum orðum - in other words
 
 ## Önnur tengiorð eða upphaf
 * í seinni tíma - in modern times
@@ -15,6 +16,7 @@
 * þvert á móti - on the contrary
 * en þó - despite, even though
 * þrátt fyrir
+* á sama tíma
 
 * jafnframt
 
