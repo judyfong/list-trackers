@@ -19,4 +19,6 @@
 * á sama tíma
 
 * jafnframt
+* þetta rímar vel við
+* þetta rímar illa við
 
