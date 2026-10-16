@@ -10,6 +10,7 @@
 * í seinni tíma - in modern times
 * engu að síður - nonetheless,yet, notwithstanding
 * hingað til - up to now, until now,so far,hitherto
+* í störum dráttum - in broad strokes, generally speaking
 
 ## Samanburður eða tenging við gagnrök
 * Séu þau það - not withstanding, those reasons being so
@@ -17,6 +18,7 @@
 * en þó - despite, even though
 * þrátt fyrir
 * á sama tíma
+* samkvæmt - in accordance with
 
 * jafnframt
 * þetta rímar vel við
