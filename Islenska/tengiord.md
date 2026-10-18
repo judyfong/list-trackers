@@ -19,6 +19,7 @@
 * þrátt fyrir
 * á sama tíma
 * samkvæmt - in accordance with
+* á öðrum enda ... á hinum enda - at one end ... at the other end
 
 * jafnframt
 * þetta rímar vel við
